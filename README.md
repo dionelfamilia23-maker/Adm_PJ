@@ -1,2 +1,2 @@
 # Adm_PJ
-Se viene cositas.
+Se vienen cositas.
